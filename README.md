@@ -198,9 +198,7 @@ $circleW: 60px;
   }
 }
 </style>
-            ui.appendChild(love);
 
-        }
 
     </script>
 </body>
